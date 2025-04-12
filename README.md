@@ -11,7 +11,6 @@ This backtesting framework allows you to develop, train, and evaluate trading st
 1. Clone the repository:
 ```
 git clone https://github.com/MuhammadMahinAli/um_hacathon
-cd ML
 ```
 
 2. Install dependencies:
