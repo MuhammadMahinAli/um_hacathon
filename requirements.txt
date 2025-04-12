@@ -1,0 +1,9 @@
+cybotrade-datasource
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+hmmlearn
+scipy
+statsmodels 
